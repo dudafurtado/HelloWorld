@@ -19,6 +19,14 @@ https://nodejs.org/en/download
 É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software
 https://git-scm.com/downloads
 
+#### Autenticação com SSH
+**Sobre:**  
+https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/about-ssh  
+**Gerando a chave SSH:**  
+https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent  
+**Adicionando a conta do Github:**  
+https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account  
+
 ## Teste de API
 
 ### 4. Postman 🔫
