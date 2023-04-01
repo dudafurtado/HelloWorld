@@ -1,5 +1,5 @@
 # Hello World 📬
-O que baixar em uma máquina para conseguir trabalhar com programação?
+*O que baixar em uma máquina para conseguir trabalhar com programação?*
 
 ## Compilador
 
@@ -50,3 +50,18 @@ https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.1.0&os=Linux&cpu=x86_64&p
 ### 8. PostgreSQL 🐘
 É um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.  
 https://www.postgresql.org/download/
+
+## Redes Sociais
+
+### 9. Discord
+https://discord.com/download
+
+### 10. Slack
+https://slack.com/intl/pt-br/downloads/linux
+
+### 11. Telegram
+https://desktop.telegram.org/
+
+### 12. Whatsapp
+https://www.whatsapp.com/download
+
